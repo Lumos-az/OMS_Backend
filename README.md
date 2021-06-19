@@ -1,2 +1,1 @@
-# OMS_Backend
-Backend of Online Medical System
+# online_medical_backend

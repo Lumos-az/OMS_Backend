@@ -1,0 +1,1 @@
+{"medicineProducer": ["华润三九(北京)药业有限公司", "exact"], "medicineMainFunction": ["急性智齿冠周炎", ""],"medicineSuitable": ["对甲硝唑或吡咯类药物过敏患者禁用", ""], "medicineTypeMajor": ["", ""], "medicineTypeMinor": ["", ""], "isOTC": ["", ""]}
